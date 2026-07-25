@@ -19,6 +19,6 @@ app.use(express.json());
 app.use(express.static(path.join(process.cwd(), "public")));
 
 app.use("/api/testimonials", testimonialRoutes);
-app.use("/api/widget", widgetRoutes);
+app.use("/api/widget", cors(), widgetRoutes);
 
 export default app;
