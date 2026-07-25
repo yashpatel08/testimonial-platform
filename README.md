@@ -144,6 +144,13 @@ Include the widget script on any website.
 ></div>
 ```
 
+```html
+
+for now it is deployed to vercel so you can insert below script to any website it will show testimonials
+<script src="https://testimonial-platform-one.vercel.app/widget.js"></script>
+
+```
+
 ### Available Options
 
 | Attribute     | Description                | Default   |
