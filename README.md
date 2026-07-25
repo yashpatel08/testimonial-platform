@@ -151,6 +151,11 @@ for now it is deployed to vercel so you can insert below script to any website i
 
 ```
 
+## Live Demo
+
+- **Frontend:** [https://testimonial-platform-6zk3.vercel.app](https://testimonial-platform-6zk3.vercel.app)
+- **Backend:** [https://testimonial-platform-one.vercel.app](https://testimonial-platform-one.vercel.app)
+
 ### Available Options
 
 | Attribute     | Description                | Default   |
