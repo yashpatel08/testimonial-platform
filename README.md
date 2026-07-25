@@ -89,6 +89,8 @@ PORT=5000
 DATABASE_URL=postgresql://postgres:[password]@db.chgqborkaasaclyabqgm.supabase.co:5432/postgres
 
 GEMINI_API_KEY=your_google_gemini_api_key
+
+FRONTEND_URL=http://localhost:5173
 ```
 
 ---
